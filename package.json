@@ -1,0 +1,23 @@
+{
+  "name": "api-notificacao-capotamento",
+  "version": "1.0.0",
+  "description": "API que recebe a localização(latitude e longitude) do celular ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARCELOASSIS87/API-notificacao-capotamento.git"
+  },
+  "author": "Marcelo Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MARCELOASSIS87/API-notificacao-capotamento/issues"
+  },
+  "homepage": "https://github.com/MARCELOASSIS87/API-notificacao-capotamento#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
