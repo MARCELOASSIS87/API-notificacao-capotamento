@@ -2,7 +2,7 @@ const express = require('express')
 const server = express()
 
 server.get('https://api-notificacao-capotamento.vercel.app/',(req,res) => {
-    return res.json({mensagem: 'Api está funcionando'}) 
+    return res.json({mensagem: 'Api está funfa'}) 
 })
 
 server.listen(3000,() => {
