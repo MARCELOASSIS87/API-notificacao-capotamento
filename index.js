@@ -5,6 +5,6 @@ server.get('/',(req,res) => {
     return res.json({mensagem: 'Api está funfa'}) 
 })
 
-// server.listen(3000,() => {
-//     console.log('Server em ação funcionando')
-// })
+server.listen(3000,() => {
+     console.log('Server em ação funcionando')
+ })
