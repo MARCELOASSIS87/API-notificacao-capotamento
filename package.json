@@ -4,7 +4,7 @@
   "description": "API que recebe a localização(latitude e longitude) do celular ",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.html",
+    "start": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
